@@ -1,5 +1,4 @@
-Movielens Case Study
-Project 2 
+Movielens Case Study - Project 2 
 
 DESCRIPTION
 
